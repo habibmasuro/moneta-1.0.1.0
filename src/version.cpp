@@ -8,7 +8,7 @@
 // Name of client reported in the 'version' message. Report the same name
 // for both monetad and moneta-qt, to make it harder for attackers to
 // target servers or GUI users specifically.
-const std::string CLIENT_NAME("Tellurion");
+const std::string CLIENT_NAME("MONETA.io");
 
 // Client version number
 #define CLIENT_VERSION_SUFFIX   "-beta"
